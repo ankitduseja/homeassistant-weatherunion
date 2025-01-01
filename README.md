@@ -15,6 +15,11 @@ Welcome to the Weather Union Addon repository! This addon provides integration w
 
 ## Installation
 
+To install this add-on, manually add my HA-Addons repository to Home Assistant
+using [this GitHub repository][ha-addons] or by clicking the button below.
+
+[![Add Repository to HA][my-ha-badge]][my-ha-url]
+
 Follow these steps to integrate this repository into your Home Assistant:
 
 ### Step 1: Add the Repository to Home Assistant
@@ -43,3 +48,6 @@ For any feedback or issues, feel free to create an issue on this repository. Con
 
 This addon is provided under the MIT License. See the [LICENSE](LICENSE) file for details.
 
+[ha-addons]: https://github.com/ankitduseja/homeassistant-weatherunion
+[my-ha-badge]: https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg
+[my-ha-url]: https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Fankitduseja%2Fhomeassistant-weatherunion
