@@ -1,0 +1,16 @@
+{
+    "config": {
+        "step": {
+        "user": {
+            "title": "Weather Union",
+            "description": "Set up the Weather Union integration.",
+            "data": {
+            "api_key": "API Key",
+            "latitude": "Latitude",
+            "longitude": "Longitude",
+            "location_name": "Location Name"
+            }
+        }
+        }
+    }
+}

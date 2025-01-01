@@ -1,0 +1,12 @@
+{
+    "domain": "weatherunion",
+    "name": "Weather Union",
+    "codeowners": ["@ankitduseja"],
+    "dependencies": [],
+    "version": "0.0.1",
+    "documentation": "https://www.example.com",
+    "integration_type": "service",
+    "iot_class": "cloud_polling",
+    "requirements": [],
+    "config_flow": true
+  }
